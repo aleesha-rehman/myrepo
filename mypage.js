@@ -1,1 +1,1 @@
-console.log("Hello Codespace .Please subscribe")
+console.log("Please subscribe")
